@@ -18,22 +18,44 @@ Use all the time:
 - [Small Rig Clamps](https://amzn.to/3LBSw4z). ~$8
 - [Small Rig Super Clamps (fancier)](https://amzn.to/3JnmMO4) ~$26
 
+Small Rig Cland and 9" Arm
+https://amzn.to/3FxLSIL
+
+<img align="right" width="100" height="100" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B087T4T8D5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=stream415-20&language=en_US">
+
+
 Testing:
 - [Fence Clip Post Mount](https://www.thefenceclip.com/product-page/post-mount-for-1-4-20)
 
 ## Cameras
 
-GoPro
-Mevo Start
+GoPro Hero 9 (wide view, very wide with max lens mode)
 
-Mokose
+Mevo Start (backup wide view)
 
 Sony HandyCam CX405 - 30x Optical Zoom, HDMI Out, (no mic in)  - $230
 https://amzn.to/40hnMKs
 
+
+10 Ft Color coded HDMI cables (3 pack)  - $18
+https://amzn.to/3Lxvb4d
+
+Right angle Micro HDMI to HDMI (for Sony cam) $9
+https://amzn.to/40h7uSp
+
+
+Testing:
+
+Mokose Medium Zoom Camera with replaceable CMount Lens (HDC10?) https://amzn.to/3LDmsh0
+
+Mokose Tele Zoom Lens with IR Cut - $130
+https://www.mokose.com/collections/camera-lens/products/mokose-1-1-8-12-120mm-f-1-8-c-mount-industrial-telephoto-zoom-manual-lens?variant=39690922328119
+
+
 ## Audio
 
 Rode Mics
+
 Rode Wireless Mic Set
 
 ## Streaming All In One
@@ -64,7 +86,7 @@ https://amzn.to/3FE6jDY
 Pelican Case with Dividers and Mesh Lid
 https://amzn.to/3Z3sytQ
 
-# Network
+## Local Wifi Network
 
 GL.iNet Wireless Travel Router - USB to iPhone for hotspot
 https://amzn.to/3TsWApI
@@ -87,7 +109,7 @@ or
 https://amzn.to/3ZZKib6
 
 
-### NDI Cam (Mevo can do NDI over wifi)
+### NDI Cam RX (Mevo can do NDI over wifi)
 
 BirdDog NDI Receiver $150
 https://amzn.to/3FE6jDY
