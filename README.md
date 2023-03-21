@@ -102,6 +102,9 @@ https://amzn.to/40iyWP2
 Wireless Zoom control for Sony
 https://amzn.to/42nHEgJ
 
+
+
+
 Wireless HDMI
 BovBox?
 https://amzn.to/3JSJUFD
@@ -113,4 +116,16 @@ https://amzn.to/3ZZKib6
 
 BirdDog NDI Receiver $150
 https://amzn.to/3FE6jDY
+
+# GoPro Hacks
+
+Use the GoPro Labs Firmware
+https://community.gopro.com/s/article/GoPro-Labs?language=en_US
+
+Setup a USB Power Trigger to power on/off with USB and go directly in to Clean HDMI mode.
+https://gopro.github.io/labs/control/usb/
+
+!MHMDI=1
+https://github.com/gopro/labs/issues/83
+
 
