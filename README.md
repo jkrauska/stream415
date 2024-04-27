@@ -1,6 +1,8 @@
 # stream415
 Overdone Video Streaming For Youth Baseball Setup, Etc
 
+Last Updated - April 2024
+
 
 
 # My baseball streaming setup
@@ -30,21 +32,34 @@ Testing:
 ## Cameras
 
 ### Wide
+Sony ZV1 II super wide & fits through fence
+https://amzn.to/49TURjZ
+
+
+(used before, had problems with focus)
 MOKOSE 12MP HDMI Camera (85 degree FOV)
 https://amzn.to/409LXKo
 
-
+(power problems, hassle to get clean output)
 GoPro Hero 9 (wide view, very wide with max lens mode)
 
+(loaned out, was nevcer happy with needing to use the app all the time)
 Mevo Start (backup wide view)
 
 
 ### Closeup / Tight (first base, picher catcher along third base, pitcher/hitter from outfield)
+
+(workhorse -- love these, sometimes the dirt makes it hard to open front)
+
 Sony HandyCam CX405 - 30x Optical Zoom, HDMI Out, (no mic in)  - $230
 https://amzn.to/40hnMKs
 
 CX455 is a better version that has Mic In. (can be found on ebay)
 
+
+Also good is Panasonic HC-V180K (easier power, bigger hdmi connector (micro vs mini) 
+
+### Cables
 
 10 and 15 Ft Color coded HDMI cables (3 pack)  - $18
 https://amzn.to/3Lxvb4d
@@ -76,6 +91,9 @@ https://amzn.to/3MKe27R
 
 ## Audio
 
+comica Traxshot Pro Shotgun Microphone (love this)
+https://amzn.to/3UkDPFQ
+
 Rode Mics
 
 Rode Wireless Mic Set
@@ -84,6 +102,9 @@ Zoom H6 Audio Mixer
 
 ## Streaming All In One
 
+Magewell Director Mini -- Favorite Streaming Box.
+
+(SOLD THIS)
 Yolobox Pro - HDMI Switcher, Streamer, Video Effects - $1200
 https://amzn.to/40pLQeh
 
